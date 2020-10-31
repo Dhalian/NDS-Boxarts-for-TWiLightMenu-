@@ -1,1 +1,6 @@
 
+How to use : 
+
+Extract the ".zip" in the folder ``SD:/_nds/TWiLightMenu/boxart``.
+Create the folder if it doesn't exist 
+In the TWiLightMenu, in the settings, activate the display of the Boxarts by selecting "Cached".
