@@ -15,3 +15,4 @@ The following items are the property of RocketRobz :
 -Box Art from Super Photo Studio
 -"GodMode9i" icon
 -"GodMode9i" logo
+-"hiyaCFW" logo 
